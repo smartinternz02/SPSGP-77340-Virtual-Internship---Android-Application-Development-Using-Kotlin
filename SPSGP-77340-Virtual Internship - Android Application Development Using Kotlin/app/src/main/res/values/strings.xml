@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NearPlace</string>
+
+    <string name="GOOGLE_MAPS_API_KEY">AIzaSyBQZW8qxrPZkpqfP8eLCwppGb-bY5PZMY0</string>
+</resources>
